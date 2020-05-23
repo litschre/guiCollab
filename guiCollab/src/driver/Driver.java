@@ -1,3 +1,7 @@
+package driver;
+
+import gui.Board;
+
 /**
  * Driver class for GUI.
  * @author Rachel Litscher and John Litscher
@@ -11,6 +15,6 @@ public class Driver {
      * @param args command line arguments
      */
     public static void main(String[] args) {
-        
+        new Board();
     }
 }
