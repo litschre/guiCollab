@@ -5,7 +5,7 @@ import gui.Board;
 /**
  * Driver class for GUI.
  * 
- * @author Rachel Litscher and John Litscher
+ * @author Rachel Litscher, John Litscher, and Christian Litscher
  * @version 1.0
  *
  */
